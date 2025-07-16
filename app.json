@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my_app",
-    "slug": "my_app",
+    "name": "yumly",
+    "slug": "yumly",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
